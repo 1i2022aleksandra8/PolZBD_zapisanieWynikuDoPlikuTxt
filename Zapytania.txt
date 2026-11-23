@@ -1,0 +1,8 @@
+1.
+SELECT
+	szkolenia.Data,
+    szkolenia.Temat
+FROM szkolenia
+ORDER BY szkolenia.Data ASC;
+
+
